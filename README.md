@@ -8,7 +8,6 @@ A modern, responsive portfolio website built with React, Tailwind CSS, and Frame
 - 📱 Fully responsive
 - 🌓 Dark mode support
 - ✨ Smooth animations
-- 🎯 Easy to customize
 - 📝 Contact form
 - 🚀 Fast performance
 
@@ -43,22 +42,6 @@ npm run dev
 
 5. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
-## Customization
-
-### Personal Information
-- Update your name and title in `src/components/Home.jsx`
-- Modify the about section in `src/components/About.jsx`
-- Add your projects in `src/components/Projects.jsx`
-- Update contact information in `src/components/Contact.jsx`
-
-### Styling
-- Customize colors and theme in `tailwind.config.js`
-- Modify global styles in `src/index.css`
-
-### Content
-- Add or remove sections as needed
-- Update images and links
-- Modify animations using Framer Motion
 
 ## Deployment
 
